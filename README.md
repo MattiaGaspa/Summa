@@ -4,7 +4,7 @@ Best way to sum two number
 ## Installation
 Compile the source code:
 
-``` javac Generate.java```
+```javac Generate.java```
 
 And run: (replace ```maxNumber``` with the max operand of the sum)
 
