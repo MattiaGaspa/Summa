@@ -1,0 +1,6 @@
+		else {
+			System.out.println("Input number not in range");
+			System.exit(1);
+		}
+	}
+}
