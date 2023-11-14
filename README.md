@@ -25,4 +25,4 @@ The file size is given by the equation (it is approximated that the two operands
 
 ```496 + (70 * maxNumber²) + 89``` bytes
 
-So to cover all the number from 0 to 2147483647 (max int number) ```Summa.java``` will be ```1.614E20``` bytes or roughly ```140``` exaByte (1 exaByte = 1024 petaByte)
+So to cover all the number from 0 to 2147483647 (max int number) ```Summa.java``` will be ```3.228E20``` bytes or roughly ```280``` exaByte (1 exaByte = 1024 petaByte)
